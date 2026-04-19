@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghuraj-stack/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghuraj-stack/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Raghuraj-stack/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2951-find-the-peaks](https://github.com/Raghuraj-stack/DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
