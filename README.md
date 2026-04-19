@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghuraj-stack/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Raghuraj-stack/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2951-find-the-peaks](https://github.com/Raghuraj-stack/DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Raghuraj-stack/DSA/tree/master/2951-find-the-peaks) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
