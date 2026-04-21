@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/Raghuraj-stack/DSA/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
