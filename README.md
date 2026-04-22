@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/Raghuraj-stack/DSA/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
