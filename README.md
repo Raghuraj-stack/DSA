@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghuraj-stack/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghuraj-stack/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Raghuraj-stack/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Raghuraj-stack/DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghuraj-stack/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,5 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raghuraj-stack/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Hash Table
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
