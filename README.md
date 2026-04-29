@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Raghuraj-stack/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Raghuraj-stack/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Raghuraj-stack/DSA/tree/master/2544-alternating-digit-sum) |
@@ -63,8 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
