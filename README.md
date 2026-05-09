@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Raghuraj-stack/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
 | [3019-number-of-changing-keys](https://github.com/Raghuraj-stack/DSA/tree/master/3019-number-of-changing-keys) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0788-rotated-digits) |
 | [3660-jump-game-ix](https://github.com/Raghuraj-stack/DSA/tree/master/3660-jump-game-ix) |
+## Sliding Window
+|  |
+| ------- |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 <!---LeetCode Topics End-->
