@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Raghuraj-stack/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Raghuraj-stack/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2951-find-the-peaks](https://github.com/Raghuraj-stack/DSA/tree/master/2951-find-the-peaks) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Raghuraj-stack/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Raghuraj-stack/DSA/tree/master/3701-compute-alternating-sum) |
 ## Math
