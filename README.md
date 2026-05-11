@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Raghuraj-stack/DSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0118-pascals-triangle](https://github.com/Raghuraj-stack/DSA/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Raghuraj-stack/DSA/tree/master/0162-find-peak-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raghuraj-stack/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghuraj-stack/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Raghuraj-stack/DSA/tree/master/0118-pascals-triangle) |
 | [0788-rotated-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0788-rotated-digits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Raghuraj-stack/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Raghuraj-stack/DSA/tree/master/3660-jump-game-ix) |
