@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Raghuraj-stack/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/Raghuraj-stack/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
+| [1903-largest-odd-number-in-string](https://github.com/Raghuraj-stack/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3019-number-of-changing-keys](https://github.com/Raghuraj-stack/DSA/tree/master/3019-number-of-changing-keys) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Divide and Conquer
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Raghuraj-stack/DSA/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0788-rotated-digits) |
 | [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/Raghuraj-stack/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Raghuraj-stack/DSA/tree/master/2544-alternating-digit-sum) |
