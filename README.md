@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Raghuraj-stack/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2951-find-the-peaks](https://github.com/Raghuraj-stack/DSA/tree/master/2951-find-the-peaks) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Raghuraj-stack/DSA/tree/master/3660-jump-game-ix) |
 | [3701-compute-alternating-sum](https://github.com/Raghuraj-stack/DSA/tree/master/3701-compute-alternating-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raghuraj-stack/DSA/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
