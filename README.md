@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/Raghuraj-stack/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3019-number-of-changing-keys](https://github.com/Raghuraj-stack/DSA/tree/master/3019-number-of-changing-keys) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Divide and Conquer
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Raghuraj-stack/DSA/tree/master/1512-number-of-good-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Two Pointers
 |  |
