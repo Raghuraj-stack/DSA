@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Raghuraj-stack/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2951-find-the-peaks](https://github.com/Raghuraj-stack/DSA/tree/master/2951-find-the-peaks) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Raghuraj-stack/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Raghuraj-stack/DSA/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Raghuraj-stack/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Raghuraj-stack/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Raghuraj-stack/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/Raghuraj-stack/DSA/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Raghuraj-stack/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Raghuraj-stack/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
