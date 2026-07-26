@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Raghuraj-stack/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Raghuraj-stack/DSA/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Raghuraj-stack/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Raghuraj-stack/DSA/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Raghuraj-stack/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raghuraj-stack/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Raghuraj-stack/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
