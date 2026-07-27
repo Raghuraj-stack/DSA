@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Simulation
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Raghuraj-stack/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Raghuraj-stack/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Raghuraj-stack/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghuraj-stack/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raghuraj-stack/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Raghuraj-stack/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Raghuraj-stack/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Raghuraj-stack/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -154,9 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Raghuraj-stack/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
