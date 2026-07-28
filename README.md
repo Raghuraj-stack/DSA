@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/Raghuraj-stack/DSA/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghuraj-stack/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Raghuraj-stack/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghuraj-stack/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Raghuraj-stack/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Raghuraj-stack/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghuraj-stack/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
