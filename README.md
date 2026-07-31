@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Raghuraj-stack/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Raghuraj-stack/DSA/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghuraj-stack/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0788-rotated-digits) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Raghuraj-stack/DSA/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Raghuraj-stack/DSA/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Raghuraj-stack/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Raghuraj-stack/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghuraj-stack/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raghuraj-stack/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
