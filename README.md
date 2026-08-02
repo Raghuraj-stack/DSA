@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Raghuraj-stack/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/Raghuraj-stack/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Raghuraj-stack/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3019-number-of-changing-keys](https://github.com/Raghuraj-stack/DSA/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Raghuraj-stack/DSA/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Raghuraj-stack/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/Raghuraj-stack/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Raghuraj-stack/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Raghuraj-stack/DSA/tree/master/3701-compute-alternating-sum) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Raghuraj-stack/DSA/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Raghuraj-stack/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
