@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Raghuraj-stack/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raghuraj-stack/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/Raghuraj-stack/DSA/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Raghuraj-stack/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raghuraj-stack/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Raghuraj-stack/DSA/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/Raghuraj-stack/DSA/tree/master/0735-asteroid-collision) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Raghuraj-stack/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Raghuraj-stack/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Raghuraj-stack/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Raghuraj-stack/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Raghuraj-stack/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Raghuraj-stack/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Raghuraj-stack/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2390-removing-stars-from-a-string](https://github.com/Raghuraj-stack/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
