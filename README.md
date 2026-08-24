@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Raghuraj-stack/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Raghuraj-stack/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raghuraj-stack/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Raghuraj-stack/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0402-remove-k-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Raghuraj-stack/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Raghuraj-stack/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Raghuraj-stack/DSA/tree/master/0771-jewels-and-stones) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Raghuraj-stack/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Raghuraj-stack/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Raghuraj-stack/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Raghuraj-stack/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Raghuraj-stack/DSA/tree/master/0735-asteroid-collision) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Raghuraj-stack/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Raghuraj-stack/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Raghuraj-stack/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Raghuraj-stack/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Raghuraj-stack/DSA/tree/master/0907-sum-of-subarray-minimums) |
